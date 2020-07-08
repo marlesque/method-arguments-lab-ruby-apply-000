@@ -1,2 +1,2 @@
 def introduction(name, lan)
-  puts 
+  puts "Hi"
