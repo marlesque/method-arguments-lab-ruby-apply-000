@@ -1,1 +1,2 @@
-def introduction(name, )
+def introduction(name, lan)
+  puts 
