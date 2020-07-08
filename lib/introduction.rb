@@ -1,2 +1,2 @@
 def introduction(name, lan)
-  puts "Hi"
+  puts "Hi, my name is #{name} and I am learning to program in #{lan}
